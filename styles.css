@@ -1,0 +1,47 @@
+div {
+    margin-bottom: 1em;
+}
+label {
+    display: inline-block;
+    width: 5em;
+}
+input {
+    margin-right: 0.5em;
+}
+.error {
+    color:red;
+}
+.right {
+    float: right;
+}
+
+body {
+    background-image: url("./space.jpg");
+}
+
+main {
+    /*background-color: whitesmoke;*/
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: whitesmoke;
+    outline-width: 25px;
+    outline-color: whitesmoke;
+}
+
+.title{
+    color: whitesmoke;
+}
+
+h3 {
+    color: whitesmoke;
+}
+h2 {
+    color: whitesmoke;
+}
+label{
+    color: #a3a0a0;
+}
